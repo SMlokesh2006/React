@@ -7,6 +7,17 @@
     border: 1px solid #ddd;
     border-radius: 8px;
     box-shadow: 0 4px 6px hsla(0, 1%, 21%, 0.297);
-    background-color: #fff;
+    background-color: #75b1f6;
     text-align: center;
+}
+
+.welcome-message {
+    font-size: 1.5rem;
+    color: hsl(96, 72%, 52%);
+    margin-bottom: 10px;
+}
+
+.login-message{
+    font-size: 1.2rem;
+    color: hsla(1, 81%, 40%, 0.76);
 }
